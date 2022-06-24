@@ -10,3 +10,7 @@ p, li {
     font-weight: bold;
 }
 
+.Main {
+    background-color: fuchsia;
+    margin: 100px;
+}
